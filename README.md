@@ -13,4 +13,4 @@
 - Simple command-line interface.
 - Allows you to add a review for any movie.
 # Screenshots
-Screenshots of the running application are included in the Screenshots folder.
+Screenshots of the running application are included in the Screenshots.docx folder.
